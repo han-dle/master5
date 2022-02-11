@@ -29,6 +29,7 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, styles }: Props) => (
             <li className="mb-2">
               After each guess, each letter will turn green, yellow, or gray.
             </li>
+            <li className="mb-2">ㅖ는 ㅔㅔ와 같이 풀어 쓰고, ㅢ는 ㅡㅣ와 같이 풀어씁니다.</li>
           </ul>
           <div className="mb-3 mt-8 flex items-center">
             <span className="nm-inset-n-green text-gray-50 inline-flex items-center justify-center text-3x w-10 h-10 rounded-full">
