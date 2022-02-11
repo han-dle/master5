@@ -1,8 +1,8 @@
 {
-  "name": "word-master",
+  "name": "kord-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://octokatherine.github.io/word-master",
+  "homepage": "http://lens0021.github.io/kord-master",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@testing-library/jest-dom": "^5.16.1",

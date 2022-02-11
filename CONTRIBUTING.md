@@ -1,17 +1,8 @@
-# Contributing to this repository
+# 이 저장소에 기여하기
 
-### Introduction
+- 기본적인 것은 [업스트림]을 참고하십시오.
+- 이슈와 풀 리퀘스트는 한국어여도 괜찮지만, 커밋 메시지는 영어로 하는 것을 지향해 주세요.
+  풀 리퀘스트는 squash 합니다.
+- 메인 브랜치는 업스트림를 합병시킬 수 있습니다.
 
-- This site is built with React and TailwindCSS
-- Check out the existing issues for ways to contribute
-
-### Have a new feature request or see a bug?
-
-Create a new issue! On the issue we can discuss the problem and assign the work.
-
-### Ready to contribute?
-
-1. Comment on the issue to claim it
-2. Create a fork of the repo
-3. Work on your fork, then open a pull request. Tag the issue in your pull request
-4. Your PR will be reviewed, and if it is approved it will be merged into `main`
+[업스트림]: https://github.com/octokatherine/word-master/blob/main/CONTRIBUTING.md
