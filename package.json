@@ -1,8 +1,8 @@
 {
-  "name": "kord-master",
+  "name": "kord-master5",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lens0021.github.io/kord-master",
+  "homepage": "http://lens0021.github.io/kord-master5",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@testing-library/jest-dom": "^5.16.1",

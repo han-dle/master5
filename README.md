@@ -1,6 +1,6 @@
-# 코드 마스터(Kord Master)
+# 코드 마스터 5(Kord Master 5)
 
-🔗 https://lens0021.github.io/kord-master/
+🔗 https://lens0021.github.io/kord-master55/
 
 이것은 유명한 단어 게임 워들(Wordle)을, 그 하루 한 번이라는 횟수에 아쉬움을 느낀 octokatherine이
 만든 게임 워드 마스터(Word Master)를 한국어 풀어쓰기 5글자로 바꾼 버전입니다.
@@ -18,4 +18,4 @@
 [위키데이터의 저작권 페이지]: https://www.wikidata.org/wiki/Wikidata:Copyright
 [꼬들]: https://kordle.pages.dev/
 [Wordle (한글 풀어쓰기 5자)]: https://nakosung.github.io/wordle/
-[CONTRIBUTING.md]: https://github.com/lens0021/kord-master/blob/main/CONTRIBUTING.md
+[CONTRIBUTING.md]: https://github.com/lens0021/kord-master5/blob/main/CONTRIBUTING.md
