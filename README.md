@@ -13,8 +13,6 @@
 새 피처나 버그에 대해 자유롭게 이슈를 생성할 수 있습니다. 코드에 기여하려면 [CONTRIBUTING.md]를
 참고하세요.
 
-[CC0]: https://www.wikidata.org/wiki/Wikidata:Text_of_the_Creative_Commons_Public_Domain_Dedication
-[위키데이터의 저작권 페이지]: https://www.wikidata.org/wiki/Wikidata:Copyright
 [꼬들]: https://kordle.pages.dev/
 [Wordle (한글 풀어쓰기 5자)]: https://nakosung.github.io/wordle/
 [CONTRIBUTING.md]: https://github.com/han-dle/master5/blob/main/CONTRIBUTING.md
