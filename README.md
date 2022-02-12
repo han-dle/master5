@@ -4,11 +4,9 @@
 
 이것은 유명한 단어 게임 워들(Wordle)을, 그 하루 한 번이라는 횟수에 아쉬움을 느낀 octokatherine이
 만든 게임 워드 마스터(Word Master)를 한국어 풀어쓰기 5글자로 바꾼 버전입니다.
-**시험적인 성향이 강하므로 게임으로 즐기거나 다른 사람에게 공유하는 것을 추천하지 않습니다.**
 
-이것은 [꼬들]과 [Wordle (한글 풀어쓰기 5자)] 외 많은 한글 워들 게임의 영향을 받았습니다.
-한국어 단어 목록은 Wordle (한글 풀어쓰기 5자)과 동일하며, 이 프로젝트에서는 변경하지 않을 예정이므로
-건의할 사항이 있을 경우 포크하여 수정하거나 새 게임을 만드는 방식을 권하여 드립니다.
+이것은 [꼬들]과 [Wordle (한글 풀어쓰기 5자)] 외 많은 한글 워들 게임의 영향을 받았습니다. 한국어 단어
+목록은 [pd-korean-noun-list-for-wordles]에서 가져오고 있습니다.
 
 ## 기여
 
@@ -20,3 +18,4 @@
 [꼬들]: https://kordle.pages.dev/
 [Wordle (한글 풀어쓰기 5자)]: https://nakosung.github.io/wordle/
 [CONTRIBUTING.md]: https://github.com/lens0021/kord-master5/blob/main/CONTRIBUTING.md
+[pd-korean-noun-list-for-wordles]: https://www.npmjs.com/package/pd-korean-noun-list-for-wordles
