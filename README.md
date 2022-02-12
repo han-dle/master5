@@ -17,5 +17,5 @@
 [위키데이터의 저작권 페이지]: https://www.wikidata.org/wiki/Wikidata:Copyright
 [꼬들]: https://kordle.pages.dev/
 [Wordle (한글 풀어쓰기 5자)]: https://nakosung.github.io/wordle/
-[CONTRIBUTING.md]: https://github.com/han-dle/kord-master5/blob/main/CONTRIBUTING.md
+[CONTRIBUTING.md]: https://github.com/han-dle/master5/blob/main/CONTRIBUTING.md
 [pd-korean-noun-list-for-wordles]: https://www.npmjs.com/package/pd-korean-noun-list-for-wordles
