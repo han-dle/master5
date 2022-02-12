@@ -6,5 +6,4 @@ const words: { [key: string]: boolean } = stringArrayToWords(
     return word.length === 5
   })
 )
-console.log(words)
 export default words
