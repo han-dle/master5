@@ -14,7 +14,7 @@ export const disassembledWords = (words: string[]): string[] => {
   return words.map((word) => {
     word = disassemble(word).join('')
     for (let replace in replaceMap) {
-      word.replace(replace, replaceMap[replace])
+      word = word.replace(replace, replaceMap[replace])
     }
     return word
   })
