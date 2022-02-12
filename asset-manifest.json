@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/master5/static/css/main.be6751bd.css",
-    "main.js": "/master5/static/js/main.dc5836de.js",
-    "static/media/Cross.png": "/master5/static/media/Cross.cbf77228e847522eff11.png",
-    "static/media/Ranade-Variable.ttf": "/master5/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
-    "index.html": "/master5/index.html",
-    "static/media/Github.svg": "/master5/static/media/Github.6a9e1709e73c56888979048bb60e60a5.svg",
-    "static/media/Settings.svg": "/master5/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
-    "static/media/Info.svg": "/master5/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
-    "static/media/Close.svg": "/master5/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
-    "main.be6751bd.css.map": "/master5/static/css/main.be6751bd.css.map",
-    "main.dc5836de.js.map": "/master5/static/js/main.dc5836de.js.map"
+    "main.css": "/master2/static/css/main.632c8459.css",
+    "main.js": "/master2/static/js/main.9710ccad.js",
+    "static/media/Cross.png": "/master2/static/media/Cross.cbf77228e847522eff11.png",
+    "static/media/Ranade-Variable.ttf": "/master2/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
+    "index.html": "/master2/index.html",
+    "static/media/Github.svg": "/master2/static/media/Github.6a9e1709e73c56888979048bb60e60a5.svg",
+    "static/media/Settings.svg": "/master2/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
+    "static/media/Info.svg": "/master2/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
+    "static/media/Close.svg": "/master2/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
+    "main.632c8459.css.map": "/master2/static/css/main.632c8459.css.map",
+    "main.9710ccad.js.map": "/master2/static/js/main.9710ccad.js.map"
   },
   "entrypoints": [
-    "static/css/main.be6751bd.css",
-    "static/js/main.dc5836de.js"
+    "static/css/main.632c8459.css",
+    "static/js/main.9710ccad.js"
   ]
 }
