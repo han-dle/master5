@@ -92,19 +92,19 @@ export const SettingsModal = ({
             </RadioGroup>
             <p className="text-center w-10/12 mx-auto font-medium">{levelInstructions}</p>
           </div>
-          {/* <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center">
             <div className="mb-4">
-              If you're enjoying this game, you can show your support by{' '}
               <a
-                href="https://www.buymeacoffee.com/katherinecodes"
+                className="font-semibold"
+                href="https://wordles.miraheze.org/"
                 target="_blank"
                 rel="noreferrer"
               >
-                buying me a coffee
+                워들 허브
               </a>
-              <span className="ml-1 text-xs">💛</span>
+              에서 다른 한국어 워들을 비롯한 전세계의 워들을 만날 수 있습니다.
             </div>
-            <a
+            {/* <a
               href="https://www.buymeacoffee.com/katherinecodes"
               target="_blank"
               rel="noreferrer"
@@ -114,8 +114,8 @@ export const SettingsModal = ({
                 alt="buy me a coffee"
                 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=katherinecodes&button_colour=eab308&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
               />
-            </a>
-          </div> */}
+            </a> */}
+          </div>
         </div>
       </div>
     </Modal>
