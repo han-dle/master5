@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kord-master5/static/css/main.e7958cbc.css",
-    "main.js": "/kord-master5/static/js/main.47df2cda.js",
+    "main.js": "/kord-master5/static/js/main.cf0ed0ee.js",
     "static/media/Cross.png": "/kord-master5/static/media/Cross.cbf77228e847522eff11.png",
     "static/media/Ranade-Variable.ttf": "/kord-master5/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
     "index.html": "/kord-master5/index.html",
@@ -10,10 +10,10 @@
     "static/media/Info.svg": "/kord-master5/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
     "static/media/Close.svg": "/kord-master5/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
     "main.e7958cbc.css.map": "/kord-master5/static/css/main.e7958cbc.css.map",
-    "main.47df2cda.js.map": "/kord-master5/static/js/main.47df2cda.js.map"
+    "main.cf0ed0ee.js.map": "/kord-master5/static/js/main.cf0ed0ee.js.map"
   },
   "entrypoints": [
     "static/css/main.e7958cbc.css",
-    "static/js/main.47df2cda.js"
+    "static/js/main.cf0ed0ee.js"
   ]
 }
