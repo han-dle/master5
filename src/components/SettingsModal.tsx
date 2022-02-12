@@ -38,7 +38,7 @@ export const SettingsModal = ({
         <div
           className={`h-full flex flex-col items-center justify-center max-w-[390px] mx-auto pt-9 text-primary dark:text-primary-dark `}
         >
-          <h1 className="text-center mb-4 sm:text-3xl text-2xl">Settings</h1>
+          <h1 className="text-center mb-4 sm:text-3xl text-2xl">설정</h1>
           <div className="flex-1 w-full border-b border-slate-400 mb-4">
             <button
               className="absolute top-4 right-4 rounded-full nm-flat-background dark:nm-flat-background-dark text-primary dark:text-primary-dark p-1 w-6 h-6 sm:p-2 sm:h-8 sm:w-8 hover:nm-inset-background dark:hover:nm-inset-background-dark"
@@ -65,12 +65,12 @@ export const SettingsModal = ({
                 />
               </Switch>
               <Switch.Label as="span" className="ml-3 cursor-pointer">
-                Dark Mode
+                어두운 화면
               </Switch.Label>
             </Switch.Group>
 
             <RadioGroup value={difficultyLevel} onChange={setDifficultyLevel} className="mt-6">
-              <RadioGroup.Label className="w-full text-center">Difficulty Level</RadioGroup.Label>
+              <RadioGroup.Label className="w-full text-center">난이도</RadioGroup.Label>
               <div className="grid grid-cols-3 gap-2 rounded-full mt-2 p-1 nm-inset-background dark:nm-inset-background-dark">
                 {Object.keys(difficulty).map((option) => (
                   <RadioGroup.Option
@@ -92,7 +92,7 @@ export const SettingsModal = ({
             </RadioGroup>
             <p className="text-center w-10/12 mx-auto font-medium">{levelInstructions}</p>
           </div>
-          <div className="flex flex-col items-center">
+          {/* <div className="flex flex-col items-center">
             <div className="mb-4">
               If you're enjoying this game, you can show your support by{' '}
               <a
@@ -115,7 +115,7 @@ export const SettingsModal = ({
                 src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=katherinecodes&button_colour=eab308&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
               />
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </Modal>

@@ -95,11 +95,11 @@ function App() {
   const [difficultyLevel, setDifficultyLevel] = useLocalStorage('difficulty', difficulty.normal)
   const getDifficultyLevelInstructions = () => {
     if (difficultyLevel === difficulty.easy) {
-      return 'Guess any 5 letters'
+      return '아무 다섯 글자를 입력 가능'
     } else if (difficultyLevel === difficulty.hard) {
-      return "Guess any valid word using all the hints you've been given"
+      return "얻은 모든 힌트를 사용한 단어만 입력 가능"
     } else {
-      return 'Guess any valid word'
+      return '모든 말이 되는 단어를 입력 가능'
     }
   }
   const eg: { [key: number]: string } = {}
@@ -376,7 +376,7 @@ function App() {
             <Settings />
           </button>
           <h1 className="flex-1 text-center text-xl xxs:text-2xl sm:text-4xl tracking-wide font-bold font-righteous">
-            KORD MASTER 5
+            코드 마스터 5
           </h1>
           <button
             type="button"
